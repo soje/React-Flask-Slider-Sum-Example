@@ -86,3 +86,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+server/.DS_Store
+
+server/__pycache__/
+
+.DS_Store
